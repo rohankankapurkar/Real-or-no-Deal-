@@ -82,7 +82,7 @@ var $indicators = $('<ol>')
 
   $("<button>")
     .attr('class', 'quiz-button btn')
-    .text("Take the quiz!")
+    .text("Start the game!")
     .click(function() {
       $quiz.carousel('next');
       $indicators.addClass('show');
