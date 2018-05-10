@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Fake",
+        "Real"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Don't reply to an email, phone call or text message that does these things:"
+      },
+      "image": "img/img1.jpg",
+      "number": 1,
+      "prompt": "Real or Fake??"
+    },
+    {
+      "answers": [
+        "Real",
+        "Fishy"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "If you're unsure about a link in an email, you can always hover your cursor over the link to see where it directs in which you can see the real linked web address at the bottom of most browsers."
+      },
+      "image": "img/img2.jpg",
+      "number": 2,
+      "prompt": "Real or fishy?"
+    },
+    {
+      "answers": [
+        "Real",
+        "Fake"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "email was sent from ceo.webmail.1337@hotmail.com. Dosen't it sound phony??"
+      },
+      "image": "img/img3.jpg",
+      "number": 3,
+      "prompt": "Real or fake?"
+    },
+    {
+      "answers": [
+        "Fake",
+        "Real"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Bank of America says:"
+      },
+      "image": "img/img5.jpg",
+      "number": 5,
+      "prompt": "Real or fake?"
+    },
+    {
+      "answers": [
+        "Real",
+        "fake"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "This is a rental car receipt and this is real because it is addressed to user specifically. Also they didn't ask to click on anything in this mail"
+      },
+      "image": "img/img6.jpg",
+      "number": 6,
+      "prompt": "Real or fake?"
+    },
+    {
+      "answers": [
+        "Real",
+        "Fake"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Its a real mail from intuit mint application."
+      },
+      "image": "img/img7.jpg",
+      "number": 7,
+      "prompt": "Real or fake?"
+    },
+    {
+      "answers": [
+        "Real",
+        "Fake"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Apple users are a loyal bunch, and Apple rewards them accordingly. However, there is a scam that is currently being pulled in Australia and North America using Apple\u2019s good name to cheat people out of their personal identification information."
+      },
+      "image": "img/apple.jpg",
+      "number": 8,
+      "prompt": "Real or fake?"
+    },
+    {
+      "answers": [
+        "Real",
+        "Fake"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Fake mail"
+      },
+      "image": "img/chase.jpg",
+      "number": 9,
+      "prompt": "Real or fake?"
+    },
+    {
+      "answers": [
+        "Real",
+        "Fake"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Sloppy language use in the email or text message."
+      },
+      "image": "img/card.jpg",
+      "number": 10,
+      "prompt": "Real or fake?"
+    },
+    {
+      "answers": [
+        "Fake",
+        "Real"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "This Amazon password reset scam almost looks like a real email from Amazon at first glance; but it\u2019s not! This email only uses Amazon\u2019s logo impersonating the company. They also claim to provide you with a six-digit number to verify your identity. (this is a bogus number.) Do NOT call the phone number.The verbiage seems like something you\u2019d expect to see from a typical security alert email until you see the phone number and phrase \u201cPlease call us on\u2026\u201d Who talks like that? Who says \u201ccall us on\u2026\u201d"
+      },
+      "image": "img/amazon.jpg",
+      "number": 11,
+      "prompt": "Real or fake?"
+    }
+  ],
+  "title": "Real? or No Deal, distinguish the legitimate emails from fishy fakes",
+  "url": "http://nifty-goldstine-28c600.bitballoon.com/"
+}
